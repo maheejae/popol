@@ -1,0 +1,23 @@
+@charset "EUC-KR";
+
+#wrap{
+	width:530px;
+	margin:auto
+}
+
+table{
+	margin:auto;
+	border:3px solid skyblue;
+}
+
+td{
+	border:1px solid skyblue;
+}
+
+#title{
+	background-color:skyblue;	
+}
+
+h1{
+	text-align:center;	
+}
